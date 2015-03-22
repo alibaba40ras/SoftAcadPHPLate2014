@@ -14,6 +14,8 @@ function __autoload($classname) {
     }
 }
 
+// Add admin check
+
 $controller = 'index';
 $action = 'index';
 
